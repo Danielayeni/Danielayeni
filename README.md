@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Danielayeni
+- 👋 Hi, I’m @The_wrong_plug
 - 👀 I’m interested in computers
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
