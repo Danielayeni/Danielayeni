@@ -2,7 +2,7 @@
 - 👀 I’m interested in computers
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me danielayeni2003@gmail.com
+- 📫 How to reach me therealconcept11@gmail.com
 
 <!---
 Danielayeni/Danielayeni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
