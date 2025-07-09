@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @The_wrong_plug
+- 👋 Hi, I’m Viper-Codes
 - 👀 I’m interested in computers
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
