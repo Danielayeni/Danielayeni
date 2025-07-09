@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Viper-Codes
-- 👀 I’m interested in computers
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me therealconcept11@gmail.com
-- # 👋 Hi, I’m ViperCodes
+- # 👋 Hi, I’m Daniel
 
 I'm a passionate and self-driven programmer with a growing skillset in **Artificial Intelligence**, **Machine Learning**, **Web Development**, and **Cybersecurity**. I recently completed an AI-powered **credit card fraud detection system**, and I'm currently exploring advanced ML techniques through new projects.
 
@@ -35,8 +30,8 @@ I'm a passionate and self-driven programmer with a growing skillset in **Artific
 
 ## 📫 Reach Me
 - **Email:** therealconcept11@gmail.com
-- **LinkedIn:** [Coming Soon]
-- **Portfolio:** *In progress – ViperCodes.dev*
+- **LinkedIn:** www.linkedin.com/in/ayeni-daniel
+- **Portfolio:** *In progress*
 
 ---
 
